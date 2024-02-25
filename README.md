@@ -4,4 +4,4 @@
 
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:33F9FF,100:0AF79D&text=Pygame&desc=sa&descSize=1&section=footer&descAlignY=22&descAlign=31"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:33F9FF,100:0AF79D&text=Pygame&desc=sa&descSize=1&section=footer&descAlignY=22&descAlign=31&fontSize=45&fontColor=030EFC"/>
