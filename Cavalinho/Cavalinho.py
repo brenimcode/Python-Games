@@ -11,7 +11,7 @@ tela = pygame.display.set_mode((largura, altura))
 pygame.display.set_caption("Jogo do Cavalinho")
 
 # Carregar a imagem PNG e redimensioná-la
-imagem_cavalo_original = pygame.image.load("cavalo2.png")  
+imagem_cavalo_original = pygame.image.load("cavalo.png")
 largura_cavalo, altura_cavalo = 100, 100  
 imagem_cavalo = pygame.transform.scale(imagem_cavalo_original, (largura_cavalo, altura_cavalo))
 
